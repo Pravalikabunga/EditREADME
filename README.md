@@ -1,4 +1,4 @@
-# EditREADME
+# README
 # 💫 About Me:
 Machine Learning with Python Developer | Frontend Developer | Passionate about Building Intelligent & Interactive Web Applications | Seeking Internship Opportunities
 
