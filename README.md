@@ -1,6 +1,6 @@
 # README
 # 💫 About Me:
-Machine Learning with Python Developer | Frontend Developer | Passionate about Building Intelligent & Interactive Web Applications | Seeking Internship Opportunities
+Aspiring Machine Learning & Python Developer | Full-Stack Web Developer | Cloud Computing Enthusiast | Graphic Designer | Seeking Internship Opportunities to Create Innovative Solutions
 
 
 ## 🌐 Socials:
